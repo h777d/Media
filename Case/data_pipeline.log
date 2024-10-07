@@ -1,0 +1,92 @@
+2024-10-06 11:22:45,867 - INFO - Step 1: Extract data
+2024-10-06 11:22:45,869 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:22:45,869 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:22:45,870 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:22:45,872 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:22:45,873 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:22:45,874 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:22:45,877 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:22:45,882 - INFO - Total tables in the database: 2
+2024-10-06 11:22:45,882 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:22:45,882 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:22:45,883 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:22:46,224 - INFO - ARIMA forecasting completed.
+2024-10-06 11:25:56,668 - INFO - Step 1: Extract data
+2024-10-06 11:25:56,669 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:25:56,670 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:25:56,670 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:25:56,673 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:25:56,674 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:25:56,675 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:25:56,678 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:25:56,681 - INFO - Total tables in the database: 2
+2024-10-06 11:25:56,681 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:25:56,681 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:25:56,681 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:25:57,034 - INFO - ARIMA forecasting completed.
+2024-10-06 11:30:53,783 - INFO - Step 1: Extract data
+2024-10-06 11:30:53,785 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:30:53,785 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:30:53,786 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:30:53,788 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:30:53,789 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:30:53,791 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:30:53,794 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:30:53,797 - INFO - Total tables in the database: 2
+2024-10-06 11:30:53,797 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:30:53,797 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:30:53,797 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:30:54,220 - INFO - ARIMA forecasting completed.
+2024-10-06 11:52:18,162 - INFO - Step 1: Extract data
+2024-10-06 11:52:18,164 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:52:18,164 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:52:18,165 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:52:18,167 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:52:18,168 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:52:18,169 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:52:18,172 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:52:18,176 - INFO - Total tables in the database: 2
+2024-10-06 11:52:18,176 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:52:18,176 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:52:18,176 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:52:18,200 - ERROR - Error training ARIMA model: name 'pickle' is not defined
+2024-10-06 11:52:18,200 - ERROR - Pipeline failed: name 'pickle' is not defined
+2024-10-06 11:52:50,011 - INFO - Step 1: Extract data
+2024-10-06 11:52:50,012 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:52:50,013 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:52:50,013 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:52:50,016 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:52:50,017 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:52:50,018 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:52:50,021 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:52:50,025 - INFO - Total tables in the database: 2
+2024-10-06 11:52:50,025 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:52:50,026 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:52:50,026 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:52:50,461 - INFO - ARIMA forecasting completed.
+2024-10-06 11:53:49,111 - INFO - Step 1: Extract data
+2024-10-06 11:53:49,112 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:53:49,113 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:53:49,113 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:53:49,116 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:53:49,117 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:53:49,118 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:53:49,121 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:53:49,124 - INFO - Total tables in the database: 2
+2024-10-06 11:53:49,125 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:53:49,125 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:53:49,125 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:53:49,683 - INFO - ARIMA forecasting completed.
+2024-10-06 11:54:11,212 - INFO - Step 1: Extract data
+2024-10-06 11:54:11,213 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:54:11,213 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/sales_region_A.csv
+2024-10-06 11:54:11,214 - INFO - Successfully loaded file: /Users/hosseind/Downloads/case/product_details.csv
+2024-10-06 11:54:11,216 - INFO - Step 2&3: Data cleaned & transformed successfully. Sales_data:
+2024-10-06 11:54:11,219 - INFO - Step4: Data enriched successfully. Enriched data:
+2024-10-06 11:54:11,220 - INFO - Step5: Data aggregated successfully. Aggregated_data:
+2024-10-06 11:54:11,224 - INFO - Step6: Data loaded to database successfully. reports:
+2024-10-06 11:54:11,227 - INFO - Total tables in the database: 2
+2024-10-06 11:54:11,227 - INFO - Table report_cat columns: ['Category', 'TotalSales']
+2024-10-06 11:54:11,227 - INFO - Table report_date columns: ['Year', 'Month', 'TotalSales']
+2024-10-06 11:54:11,228 - INFO - Extra Step: Database info retrieved from database using SQL inquiry successfully
+2024-10-06 11:54:11,664 - INFO - ARIMA forecasting completed.
